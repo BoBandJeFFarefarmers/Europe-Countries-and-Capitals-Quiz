@@ -1,2 +1,2 @@
-# europe-countries-and-capitals-quiz
-a quiz game I made
+# Quiz Game
+A quiz game I made that tests you on all of Europe's capitals
